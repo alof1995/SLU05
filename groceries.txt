@@ -4,3 +4,4 @@ coffee
 water
 butter
 eggs
+toilet paper
